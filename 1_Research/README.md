@@ -4,5 +4,6 @@ It is almost impossible for us to imagine mathematics without a calculator. An e
 ## DIFFERENT TYPES OF CALCULATORS:
 
 1. **ABACUS:**
+
 Abacus is the first tool created specifically for use in mathematical computations. It was invented by Sumerians and Egyptians in 2500 BC. The abacus is a table of successive columns with beads or stones representing a single unit, which could be used for addition or subtraction. 
 
