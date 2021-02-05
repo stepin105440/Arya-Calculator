@@ -10,3 +10,4 @@ README.mdREADME.md
 | HL\_04 | The calculator has to produce a correct result defined by the arithmetic rules. |
 | HL\_05 | The calculator takes up the valid input and throws a warning when invalid input is provided. |
 | HL\_06 | The priority is given to the case number entered. |
+![alt text] (https://github.com/99003572/Arya-Calculator/blob/main/1.%20Requirements/Detailed%20Requirements/High%20Level%20Requirement/High%20level%20requirements%20for%20simple%20operations.jpg)
