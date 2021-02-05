@@ -4,11 +4,11 @@ It is almost impossible for us to imagine mathematics without a calculator. An e
 ## DIFFERENT TYPES OF CALCULATORS:
 
 1. **ABACUS:**
-               Abacus is the first tool created specifically for use in mathematical computations. It was invented by Sumerians and Egyptians in 2500 BC. The abacus is a table of successive columns with beads or stones representing a single unit, which could be used for addition or subtraction. 
-   CONS: It is not useful for multiplication or division
+               Abacus is the first tool created specifically for use in mathematical computations. It was invented by Sumerians and Egyptians in 2500 BC. The abacus is a table of successive columns with beads or stones representing a single unit, which could be used for addition or subtraction. \
+   CONS:\ It is not useful for multiplication or division
 
 2. **PASCAL CALCULATOR:**
-                          Pascal Calculator was invented in 1642 by a french inventor and mathematician Blaise Pascal. It performed calculations through a clockwork-type of mechanism.and was lauded for attempting arithmetic calculations which was previously thought impossible.
-    CONS:
-          1. Production of these type of calculators was difficult
-          2. Bulky in size.
+                          Pascal Calculator was invented in 1642 by a french inventor and mathematician Blaise Pascal. It performed calculations through a clockwork-type of mechanism.and was lauded for attempting arithmetic calculations which was previously thought impossible.\
+    CONS:\
+          1. Production of these type of calculators was difficult.\
+          2. Bulky in size.\
