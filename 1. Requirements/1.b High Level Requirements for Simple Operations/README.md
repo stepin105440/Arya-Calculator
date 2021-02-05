@@ -1,1 +1,1 @@
-
+![alt text](https://github.com/99003572/Arya-Calculator/blob/main/1.%20Requirements/1.b%20High%20Level%20Requirements%20for%20Simple%20Operations/High%20level%20requirements%20for%20simple%20operations.jpg)
