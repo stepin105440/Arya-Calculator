@@ -21,4 +21,21 @@ It is almost impossible for us to imagine mathematics without a calculator. An e
                               The first scientific calculator was invented  in 1968. The HP-35, introduced on February 1, 1972, was the first pocket calculator and the world's first handheld scientific calculator. Texas Instruments (TI), after the production of several units with scientific notation, introduced a handheld scientific calculator on January 15, 1974. TI-30 series is one of the most widely used scientific calculators in classrooms.
                               
 5. **SMARTPHONE:**
-                    With the invention of the first smartphone in 1995, individuals began to replace expensive digital calculators with the multi use device. This required even the most sophisticated calculator designs to be upgraded in order to remain relevant in the market.               
+                    With the invention of the first smartphone in 1995, individuals began to replace expensive digital calculators with the multi use device. This required even the most sophisticated calculator designs to be upgraded in order to remain relevant in the market.
+                    
+## DIFFERENT CALCULATORS AVAILABLE IN THE MARKET:
+
+S.NO  | TYPE | MODEL NAME | YEAR | COST
+----------- | ------------- | ----------- | ------------- | ----------- 
+1. | Portable calculator | Casio HL-100LB Portable Calculator, 10 Digit | August 2013 | Rs. 175
+2. | Scientific Calculator | Casio FX-991ES Plus-2nd Edition Scientific Calculator | June 2015 | Rs. 1145
+3. | Basic Calculator | Casio MJ-120D 150 Steps Check and Correct Desktop Calculator with Tax Keys | December 2014 | Rs. 485
+4. | Graphing Calculator | Texas Instruments TI-84 plus graphing calculator | August 2016  | Rs.15,500
+5. | Printing Calculator | Casio DR-140R-WE Printing Calculator | September 2018 | Rs.5500
+
+
+
+
+
+
+
