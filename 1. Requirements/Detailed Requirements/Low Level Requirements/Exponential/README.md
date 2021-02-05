@@ -1,3 +1,4 @@
+# LOW LEVEL REQUIREMENTS FOR EXPONENTIAL FUNCTION
 | **REQ. ID** | **DESCRIPTION** | **OWNER** |
 | --- | --- | --- |
 | LL\_01 | The Calculator program should redirect to the exponential part when the user selects option 12 from the list | Vinti Sai Pranitha |
